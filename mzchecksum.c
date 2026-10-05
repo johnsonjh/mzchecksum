@@ -1,5 +1,5 @@
 /*
- * mzchecksum - DOS EXEC checksum tool
+ * mzchecksum - DOS EXE checksum tool
  * SPDX-License-Identifier: MIT-0
  * Copyright (c) 2026 Jeffrey H. Johnson <johnsonjh.dev@gmail.com>
  */
